@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 DevOps Engineering Portfolio
 
 ## Overview
