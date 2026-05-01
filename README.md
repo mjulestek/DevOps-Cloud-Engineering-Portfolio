@@ -66,6 +66,3 @@ Actively maintained and extended with new implementations.
 
 Jules Munyaneza/DevOps&AWS Cloud Engineer
 =======
-# DevOps-Cloud-Engineering-Portfolio
-End-to-end DevOps &amp; Cloud engineering portfolio demonstrating cloud infrastructure, CI/CD pipelines, containerization, and Kubernetes-based deployments.
->>>>>>> 2adc83875b6445706f0a6fa1635c9b7290f7e694
